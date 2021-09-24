@@ -1,6 +1,6 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=UsiFX.UsiFX)](https://github.com/AbOuLfOoOoOuF) [![GitHub followers](https://img.shields.io/github/followers/UsiFX.svg?style=social&label=Follow)](https://github.com/UsiFX?tab=followers)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=UsiFX.UsiFX)][![GitHub followers](https://img.shields.io/github/followers/UsiFX.svg?style=social&label=Follow)](https://github.com/UsiFX?tab=followers)
 
 ![UsiF's Github stats](https://github-readme-stats.vercel.app/api?username=UsiFX&show_icons=true&theme=chartreuse-dark&hide_border=true)
 
