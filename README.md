@@ -1,13 +1,4 @@
-# Welcome!
-##### i live in egypt.
-##### i just know bit about bash
-##### i know lot about android espeacially thermals..
-
-----------------------------------------------------------------
- <a href="https://t.me/ThermodX">Official Telegram Channel</a>
- 
- <a href="https://t.me/Thermxocg">Official Telegram Chat</a>
- 
- <a href="https://t.me/imUsif12">Telegram Account</a>
- 
-<a href="https://www.facebook.com/yousif.heathen.5/">Facebook Account</a>
+# Hello There!
+##### i am working in <a href="https://t.me/xprjkts">xprjkts</a> oragnization
+##### i am working for <a href="https://github.com/UsiFX/ThermodX-Source">ThermodX</a> Project
+##### You can also reach me at <a href="https://t.me/imUsif12">Telegram</a> or <a href="https://www.facebook.com/yousif.heathen.5/">Facebook.</a>
