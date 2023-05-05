@@ -1,7 +1,11 @@
-# Hello There!
-##### i am working in <a href="https://t.me/xprjkts">xprjkts</a> oragnization
-##### i am working for <a href="https://github.com/UsiFX/ThermodX-Source">ThermodX</a> Project
+# Hi There!
+##### I'm working in <a href="https://t.me/xprjkts">xprjkts</a> oragnization
+##### I'm also working under alot of orgnizations such as <a href="https://github.com/liquidprjkt">The Liquid Project</a>
+##### Currently working on <a href="https://github.com/liquiddesk-prjkt">Liquid Linux Project</a> which it's currently work in progress.
 ##### You can also reach me at <a href="https://t.me/imUsif12">Telegram</a> or <a href="https://www.facebook.com/yousif.heathen.5/">Facebook.</a>
+
+# Wanna know more about me?
+##### Check my detail-full bio at <a href="https://t.me/UsIFinfo">Telegram</a>
 
 ##  Stats And Languages
 
